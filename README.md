@@ -83,7 +83,7 @@ Sign-Language-Detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sign-language-detection.git
+https://github.com/mehdialinaqvi110-cell/Hand-sign-detection/tree/main
 ```
 
 Move into the project directory:
